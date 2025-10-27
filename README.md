@@ -1,5 +1,5 @@
 # Qiskit + LLMs Hybrid Project- Integrating BERT and MiniLM Embeddings with Qiskit Variational Circuits for Hybrid Quantum NLP
-Ileana Bucur
+Ileana Bucur,
 Course: Large Language Models Zoo, prof.Ca˘grı C¨oltekin
 
 A production-ready skeleton for a **hybrid Quantum + LLM** workflow. 
