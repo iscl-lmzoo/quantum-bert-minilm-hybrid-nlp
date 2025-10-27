@@ -53,7 +53,7 @@ Then run:
 - For exact results, consider adding a `requirements-lock.txt` produced via `pip freeze` after your first successful run on your machine.
 
 ## License
-MIT © 2025 Ileana Bucur
+MIT © 2025 
 
 
 See `notebooks/01_demo_sentiment.ipynb` for an end-to-end tiny demo.
