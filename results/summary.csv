@@ -1,0 +1,6 @@
+task,model,head,fine_tune_bert,num_qubits,vqc_reps,max_length,batch,epochs,acc_test,train_time_s
+sst2,bert-base-uncased,classical,0,0,0,128,16,3,0.92,520
+sst2,bert-base-uncased,quantum,0,4,2,128,16,3,0.901,690
+sst2,bert-base-uncased,quantum,0,6,2,128,16,3,0.905,860
+legal,bert-base-uncased,classical,0,0,0,128,16,5,0.823,180
+legal,bert-base-uncased,quantum,0,4,2,128,8,5,0.846,230
