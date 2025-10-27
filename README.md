@@ -2,7 +2,7 @@
 Ileana Bucur
 Course: Large Language Models Zoo, prof.Ca˘grı C¨oltekin
 
-A production-ready skeleton for a **hybrid Quantum + LLM** workflow. This repo consolidates your latest two archives and standardizes the structure.
+A production-ready skeleton for a **hybrid Quantum + LLM** workflow. 
 
 ## What’s inside
 - `src/` — Python source (hybrid pipeline, utilities)
